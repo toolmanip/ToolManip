@@ -1,0 +1,7 @@
+{
+    "Step1_Action1": "Motion:Move(tool, 1, 0), Force:Off",
+    "Step1_Action2": "Motion:Grip(1), Force:Off",
+    "Step2_Action1": "Motion:Move(obj, 4, 1), Force:Off",
+    "Step2_Action2": "Motion:Rotate(3, 2, 1, 90), Force:Off",
+    "Step3_Action1": "Motion:Linear((0, -1, 0), 5), Force:Constant(5, 0.5)",
+}

@@ -1,0 +1,19 @@
+{
+    "task": "Sweep the board",
+    "tool": {
+        "name": "Brush ",
+        "color": "Red and beige",
+        "position": "Left side of image hanging on wall"
+    },
+    "object": {
+        "name": "Board",
+        "color": "Yellow",
+        "position": "Center of image secured by vise"
+    },
+    "task_steps": {
+        "step1": "Grasp the brush handle using a firm grip with the 2 finger gripper positioned on the red and beige sections.",
+        "step2": "Align the brush bristles parallel to the board using coordinates.",
+        "step3": "Move brush across board with light pressure ensuring coverage over yellow area until clean."
+    },
+    "task_check_criteria": "The board is free from debris and evenly swept."
+}

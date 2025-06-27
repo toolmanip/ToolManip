@@ -1,0 +1,6 @@
+[submodule "keypoint_gen/Lang_SAM"]
+	path = keypoint_gen/Lang_SAM
+	url = https://github.com/paulguerrero/lang-sam.git
+[submodule "SAM_6D"]
+	path = SAM_6D
+	url = https://github.com/JiehongLin/SAM-6D.git
